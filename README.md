@@ -17,6 +17,8 @@ SCISSORS, and then press ENTER.  You may quit at any time.
 ## How This Program Works
 This program works by allowing the user to choose one of three options, rock, paper, or scissors. The computer will use the random funcion to choose its weapon. This program runs on a loop, so at the end of every game the user is asked if they would like to play again.
 
-###
+## Installation
+Can be compiled in DEV-C.
+
 
 ![alt text](Screenshots/Capture2.PNG)
