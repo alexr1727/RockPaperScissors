@@ -19,20 +19,4 @@ This program works by allowing the user to choose one of three options, rock, pa
 
 ####
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](Screenshots/Capture.PNG)
+![alt text](Screenshots/Capture2.PNG)
